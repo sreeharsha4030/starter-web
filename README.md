@@ -13,6 +13,8 @@ Sample website with plenty of files for demos
 The status is..
 
 ##How To Continue
+	
+	Please fork this repository and then issue Pull Requests review.
 
 ##Copyright Notice
 
