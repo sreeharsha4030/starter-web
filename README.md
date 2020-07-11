@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 The status is..
 
 ##How To Continue
+
+##Copyright Notice
+
