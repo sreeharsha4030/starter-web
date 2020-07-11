@@ -10,4 +10,6 @@ Sample website with plenty of files for demos
 
 ##Deployment
 
+The status is..
+
 ##How To Continue
